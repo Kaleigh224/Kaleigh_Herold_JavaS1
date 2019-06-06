@@ -1,4 +1,4 @@
-/* package com.company;
+package com.company;
 
 import org.junit.After;
 import org.junit.Before;
@@ -52,5 +52,5 @@ public class IsJavaKeywordTest {
     }
 }
 
- */
+
 
