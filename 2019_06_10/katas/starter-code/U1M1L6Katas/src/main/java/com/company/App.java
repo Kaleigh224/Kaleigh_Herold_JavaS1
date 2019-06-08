@@ -65,6 +65,16 @@ public class App {
         return swapWords;
     }
 
+    public static int [] reverse(int[] reverseArr) {
+        for(int i = 0; i < reverseArr.length / 2; i++)
+        {
+            int swap = reverseArr[i];
+            reverseArr[i] = reverseArr[reverseArr.length - i - 1];
+            reverseArr[reverseArr.length - i - 1] = swap;
+        }
+        return reverseArr;
+    }
+
     public static String concatenateString(String[] stringWordsArr) {
         String joinedString = "";
 

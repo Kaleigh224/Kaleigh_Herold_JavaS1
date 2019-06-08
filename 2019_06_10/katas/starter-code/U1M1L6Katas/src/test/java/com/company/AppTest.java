@@ -81,24 +81,24 @@ public class AppTest {
          assertArrayEquals(failMessage, output3, App.swapFirstAndLast(stringTest3));
      }
 
-    // @Test
-    // public void testReverse() {
-    //     int[] output1 = new int[] {7, 6, 5, 4, 3, 2, 1, 0};
-    //     int[] output2 = new int[] {-17, -3};
-    //     int[] output3 = new int[] {7, 102, 2323, 55};
-    //     int[] output4 = new int[] {112, 101, 12, 37,
-    //             24, 3, 89, 17,
-    //             43, 56, 13, 10,
-    //             9, 1, 6, 7,
-    //             3, 5, 4, 2};
+     @Test
+     public void testReverse() {
+         int[] output1 = new int[] {7, 6, 5, 4, 3, 2, 1, 0};
+         int[] output2 = new int[] {-17, -3};
+         int[] output3 = new int[] {7, 102, 2323, 55};
+         int[] output4 = new int[] {112, 101, 12, 37,
+                 24, 3, 89, 17,
+                 43, 56, 13, 10,
+                 9, 1, 6, 7,
+                 3, 5, 4, 2};
 
 
-    //     String failMessage = "Expected method to reverse an array of ints";
-    //     assertArrayEquals(failMessage, output1, App.reverse(intTest1));
-    //     assertArrayEquals(failMessage, output2, App.reverse(intTest2));
-    //     assertArrayEquals(failMessage, output3, App.reverse(intTest3));
-    //     assertArrayEquals(failMessage, output4, App.reverse(intTest4));
-    // }
+         String failMessage = "Expected method to reverse an array of ints";
+         assertArrayEquals(failMessage, output1, App.reverse(intTest1));
+         assertArrayEquals(failMessage, output2, App.reverse(intTest2));
+         assertArrayEquals(failMessage, output3, App.reverse(intTest3));
+         assertArrayEquals(failMessage, output4, App.reverse(intTest4));
+     }
 
      @Test
      public void testConcatenate() {
