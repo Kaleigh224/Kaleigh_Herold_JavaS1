@@ -57,10 +57,11 @@ public class MonthConverterSwitch {
                 System.out.println("December");
                 break;
 
+            default:
+                System.out.println("You have entered an invalid number. You must enter a number between 1 and 12. Goodbye.");
+                break;
+
             }
-        if(userNumber < 1 || ){
-            System.out.println("You have entered an invalid number. You must enter a number between 1 and 12. Goodbye.");
-        }
 
     }
 }
