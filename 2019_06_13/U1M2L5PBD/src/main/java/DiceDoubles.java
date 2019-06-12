@@ -2,26 +2,31 @@ import java.util.*;
 
 public class DiceDoubles {
     public static void main(String[] args) {
-        System.out.println();
-        Random diceRoll = new Random();
-        int x = diceRoll.nextInt(6) + 1;
-
-        int firstRoll = diceRoll.nextInt(6) + 1;
-        System.out.println("Roll #1: " + firstRoll);
+        System.out.println("Here comes the dice!");
         System.out.println();
 
-        int secondRoll = diceRoll.nextInt(6) + 1;
-        System.out.println("Roll #2: " + secondRoll);
+        Random diceNum = new Random();
+        int firstDice;
+        int secondDice;
+        int firstSum = 0;
+        firstDice = diceNum.nextInt(6) + 1;
+        secondDice = diceNum.nextInt(6) + 1;
 
+        while(firstDice != secondDice){
+            System.out.println("Roll #1: " + firstDice);
+            System.out.println("Roll #2: " + secondDice);
+            int sum = firstDice + secondDice;
+            System.out.println("The total is " + sum + "!");
+            System.out.println();
 
-        for(int i = 1; i < 0; i++) {
-            int doublesRoll = i;
-            if(firstRoll != secondRoll){
-                doublesRoll++;
-            }else{
-                System.out.println(firstRoll);
-                System.out.println((secondRoll));
-            }
+            int diceRoll3 = diceNum.nextInt(6);
+            int diceRoll4 = diceNum.nextInt(6);
+            firstDice = diceRoll3;
+            secondDice = diceRoll4;
         }
+        System.out.println();
+        System.out.println("Roll #1: " + firstDice);
+        System.out.println("Roll #2: " + secondDice);
+        System.out.println("The total is " + (firstSum) + "!");
     }
 }
