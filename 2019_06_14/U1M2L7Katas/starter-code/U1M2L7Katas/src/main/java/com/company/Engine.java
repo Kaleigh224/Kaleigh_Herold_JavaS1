@@ -3,6 +3,12 @@ package com.company;
 public class Engine {
     private String transmission;
 
+
+    public Engine() {
+
+    }
+
+
     public String getTransmission() {
         return transmission;
     }
@@ -11,7 +17,5 @@ public class Engine {
         this.transmission = transmission;
     }
 
-    public void Engine(String getTransmission) {
-
-    }
 }
+

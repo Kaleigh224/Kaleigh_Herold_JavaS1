@@ -1,17 +1,28 @@
 package com.company;
 
-public class Transmission extends Engine{
-    private String engine;
+public class Transmission {
+    private String gears;
+    private String model;
 
-    public String getEngine() {
-        return engine;
+    public String getGears() {
+        return gears;
     }
 
-    public void setEngine(String engine) {
-        this.engine = engine;
+    public void setGears(String gears) {
+        this.gears = gears;
     }
 
-    public void Transmission(String getEngine) {
+    public String getModel() {
+        return model;
+    }
+
+    public void setModel(String model) {
+        this.model = model;
+    }
+
+    public Transmission() {
 
     }
+
+
 }
