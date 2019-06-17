@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e90c310c-90a1-42dd-85b1-0be4ee368e21" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../2019_06_14/U1M2L7Katas/starter-code/U1M2L7Katas/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2019_06_14/U1M2L7Katas/starter-code/U1M2L7Katas/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../U1M1SummativeHeroldKaleigh/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../U1M1SummativeHeroldKaleigh/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../U1M1SummativeHeroldKaleigh/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../U1M1SummativeHeroldKaleigh/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../U1M1SummativeHeroldKaleigh/U1M1SummativeHeroldKaleigh.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../U1M1SummativeHeroldKaleigh/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../U1M1SummativeHeroldKaleigh/src/main/java/com/company/ArrayFun5Words.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../U1M1SummativeHeroldKaleigh/src/main/java/com/company/ArrayFunReverseIt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../U1M1SummativeHeroldKaleigh/src/main/java/com/company/ArrayFunUserArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../U1M1SummativeHeroldKaleigh/src/main/java/com/company/JavaLoops.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../U1M1SummativeHeroldKaleigh/src/main/java/com/company/MonthConverterIf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../U1M1SummativeHeroldKaleigh/src/main/java/com/company/MonthConverterSwitch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../U1M1SummativeHeroldKaleigh/src/main/java/com/company/SomeMath.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../U1M1SummativeHeroldKaleigh/src/main/java/com/company/U1_M1_Summative_Herold_Kaleigh.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../U1M1SummativeHeroldKaleigh/target/classes/com/company/ArrayFun5Words.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../U1M1SummativeHeroldKaleigh/target/classes/com/company/ArrayFunReverseIt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../U1M1SummativeHeroldKaleigh/target/classes/com/company/ArrayFunUserArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../U1M1SummativeHeroldKaleigh/target/classes/com/company/JavaLoops.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../U1M1SummativeHeroldKaleigh/target/classes/com/company/MonthConverterIf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../U1M1SummativeHeroldKaleigh/target/classes/com/company/MonthConverterSwitch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../U1M1SummativeHeroldKaleigh/target/classes/com/company/SomeMath.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../U1M1SummativeHeroldKaleigh/target/classes/com/company/U1_M1_Summative_Herold_Kaleigh.class" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/Converter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ConverterIf.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ConverterSwitch.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ConverterApplication.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
+        <option value="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="730" />
+    <option name="width" value="710" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="U1M2SummativeHeroldKaleigh" type="b2602c69:ProjectViewProjectNode" />
+              <item name="U1-M2-Summative-Herold-Kaleigh" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="ConverterApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConverterApplication" />
+      <module name="ConverterInterface" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="ConverterInterface" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="ConverterInterface" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ConverterApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e90c310c-90a1-42dd-85b1-0be4ee368e21" name="Default Changelist" comment="" />
+      <created>1560611441057</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560611441057</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="730" y="0" width="710" height="900" extended-state="0" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.9550898" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ConverterIf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ConverterSwitch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="46" column="34" selection-start-line="46" selection-start-column="34" selection-end-line="46" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Converter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ConverterApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
