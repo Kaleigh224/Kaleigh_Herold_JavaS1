@@ -2,29 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2c06d13-2d76-4dc6-9259-ad1087e01428" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../2019_06_14/U1M2L7Katas/starter-code/U1M2L7Katas/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2019_06_14/U1M2L7Katas/starter-code/U1M2L7Katas/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../U1M1SummativeHeroldKaleigh/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../U1M1SummativeHeroldKaleigh/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../U1M1SummativeHeroldKaleigh/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../U1M1SummativeHeroldKaleigh/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../U1M1SummativeHeroldKaleigh/U1M1SummativeHeroldKaleigh.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../U1M1SummativeHeroldKaleigh/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../U1M1SummativeHeroldKaleigh/src/main/java/com/company/ArrayFun5Words.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../U1M1SummativeHeroldKaleigh/src/main/java/com/company/ArrayFunReverseIt.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../U1M1SummativeHeroldKaleigh/src/main/java/com/company/ArrayFunUserArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../U1M1SummativeHeroldKaleigh/src/main/java/com/company/JavaLoops.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../U1M1SummativeHeroldKaleigh/src/main/java/com/company/MonthConverterIf.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../U1M1SummativeHeroldKaleigh/src/main/java/com/company/MonthConverterSwitch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../U1M1SummativeHeroldKaleigh/src/main/java/com/company/SomeMath.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../U1M1SummativeHeroldKaleigh/src/main/java/com/company/U1_M1_Summative_Herold_Kaleigh.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../U1M1SummativeHeroldKaleigh/target/classes/com/company/ArrayFun5Words.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../U1M1SummativeHeroldKaleigh/target/classes/com/company/ArrayFunReverseIt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../U1M1SummativeHeroldKaleigh/target/classes/com/company/ArrayFunUserArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../U1M1SummativeHeroldKaleigh/target/classes/com/company/JavaLoops.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../U1M1SummativeHeroldKaleigh/target/classes/com/company/MonthConverterIf.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../U1M1SummativeHeroldKaleigh/target/classes/com/company/MonthConverterSwitch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../U1M1SummativeHeroldKaleigh/target/classes/com/company/SomeMath.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../U1M1SummativeHeroldKaleigh/target/classes/com/company/U1_M1_Summative_Herold_Kaleigh.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../U1-M2-Summative-Herold-Kaleigh/CustomerComposition/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../U1-M2-Summative-Herold-Kaleigh/CustomerComposition/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../U1-M2-Summative-Herold-Kaleigh/IcecreamDesign/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../U1-M2-Summative-Herold-Kaleigh/IcecreamDesign/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -56,7 +35,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Nim.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-144">
+            <state relative-caret-position="198">
               <caret line="29" column="41" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
             </state>
           </provider>
@@ -113,6 +92,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
@@ -176,7 +156,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.43373495" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.43373495" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -208,7 +188,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Nim.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-144">
+        <state relative-caret-position="198">
           <caret line="29" column="41" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
         </state>
       </provider>

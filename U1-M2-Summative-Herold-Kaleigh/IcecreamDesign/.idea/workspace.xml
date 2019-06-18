@@ -2,29 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7e5b7e2-0743-4e40-9bed-274cdb6d8316" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../2019_06_14/U1M2L7Katas/starter-code/U1M2L7Katas/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2019_06_14/U1M2L7Katas/starter-code/U1M2L7Katas/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../U1M1SummativeHeroldKaleigh/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../U1M1SummativeHeroldKaleigh/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../U1M1SummativeHeroldKaleigh/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../U1M1SummativeHeroldKaleigh/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../U1M1SummativeHeroldKaleigh/U1M1SummativeHeroldKaleigh.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../U1M1SummativeHeroldKaleigh/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../U1M1SummativeHeroldKaleigh/src/main/java/com/company/ArrayFun5Words.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../U1M1SummativeHeroldKaleigh/src/main/java/com/company/ArrayFunReverseIt.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../U1M1SummativeHeroldKaleigh/src/main/java/com/company/ArrayFunUserArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../U1M1SummativeHeroldKaleigh/src/main/java/com/company/JavaLoops.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../U1M1SummativeHeroldKaleigh/src/main/java/com/company/MonthConverterIf.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../U1M1SummativeHeroldKaleigh/src/main/java/com/company/MonthConverterSwitch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../U1M1SummativeHeroldKaleigh/src/main/java/com/company/SomeMath.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../U1M1SummativeHeroldKaleigh/src/main/java/com/company/U1_M1_Summative_Herold_Kaleigh.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../U1M1SummativeHeroldKaleigh/target/classes/com/company/ArrayFun5Words.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../U1M1SummativeHeroldKaleigh/target/classes/com/company/ArrayFunReverseIt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../U1M1SummativeHeroldKaleigh/target/classes/com/company/ArrayFunUserArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../U1M1SummativeHeroldKaleigh/target/classes/com/company/JavaLoops.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../U1M1SummativeHeroldKaleigh/target/classes/com/company/MonthConverterIf.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../U1M1SummativeHeroldKaleigh/target/classes/com/company/MonthConverterSwitch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../U1M1SummativeHeroldKaleigh/target/classes/com/company/SomeMath.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../U1M1SummativeHeroldKaleigh/target/classes/com/company/U1_M1_Summative_Herold_Kaleigh.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2019_06_17/U1M2L8PBD/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2019_06_17/U1M2L8PBD/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomerComposition/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CustomerComposition/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -33,6 +12,10 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf>
@@ -160,6 +143,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RunDashboard">
