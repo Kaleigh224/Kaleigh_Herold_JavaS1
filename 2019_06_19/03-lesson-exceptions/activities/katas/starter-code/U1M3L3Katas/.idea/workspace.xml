@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8110e786-2e90-4473-887d-3aae3e19c1e3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/01-lesson/activities/in-class/in-class.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/01-lesson/activities/in-class/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/01-lesson/activities/in-class/src/main/java/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/01-lesson/activities/in-class/target/classes/HelloWorld.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/02-lesson.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/01-rectangular-paving-company/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/01-rectangular-paving-company/starter-code/RectPavingCompany/RectPavingCompany.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/01-rectangular-paving-company/starter-code/RectPavingCompany/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/01-rectangular-paving-company/starter-code/RectPavingCompany/src/main/java/com/company/RectPavingCompany.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/01-rectangular-paving-company/starter-code/RectPavingCompany/src/test/java/com/company/RectPavingCompanyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/01-rectangular-paving-company/starter-code/RectPavingCompany/target/classes/com/company/RectPavingCompany.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/01-rectangular-paving-company/starter-code/RectPavingCompany/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/01-rectangular-paving-company/starter-code/RectPavingCompany/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/01-rectangular-paving-company/starter-code/RectPavingCompany/target/test-classes/com/company/RectPavingCompanyTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/01-rectangular-paving-company/starter-code/RectPavingCompany/testfiles/MultipleInputs/input0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/01-rectangular-paving-company/starter-code/RectPavingCompany/testfiles/MultipleInputs/input1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/01-rectangular-paving-company/starter-code/RectPavingCompany/testfiles/MultipleInputs/input2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/02-registration-form/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/02-registration-form/starter-code/CommandLineGram/CommandLineGram.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/02-registration-form/starter-code/CommandLineGram/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/02-registration-form/starter-code/CommandLineGram/src/main/java/com/company/CommandLineGram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/02-registration-form/starter-code/CommandLineGram/src/test/java/com/company/CommandLineGramTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/02-registration-form/starter-code/CommandLineGram/target/classes/com/company/CommandLineGram.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/02-registration-form/starter-code/CommandLineGram/target/test-classes/com/company/CommandLineGramTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/02-registration-form/starter-code/CommandLineGram/testfiles/MultipleInputs/input0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/02-registration-form/starter-code/CommandLineGram/testfiles/MultipleInputs/input1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/02-registration-form/starter-code/CommandLineGram/testfiles/MultipleInputs/input2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/03-luxury-tax-calculator/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/03-luxury-tax-calculator/starter-code/LuxuryTaxCalculator/LuxuryTaxCalculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/03-luxury-tax-calculator/starter-code/LuxuryTaxCalculator/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/03-luxury-tax-calculator/starter-code/LuxuryTaxCalculator/src/main/java/com/company/LuxuryTaxCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/03-luxury-tax-calculator/starter-code/LuxuryTaxCalculator/src/test/java/com/company/LuxuryTaxCalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/03-luxury-tax-calculator/starter-code/LuxuryTaxCalculator/target/classes/com/company/LuxuryTaxCalculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/03-luxury-tax-calculator/starter-code/LuxuryTaxCalculator/target/test-classes/com/company/LuxuryTaxCalculatorTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/03-luxury-tax-calculator/starter-code/LuxuryTaxCalculator/testfiles/MultipleInputs/input0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/03-luxury-tax-calculator/starter-code/LuxuryTaxCalculator/testfiles/MultipleInputs/input1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/03-luxury-tax-calculator/starter-code/LuxuryTaxCalculator/testfiles/MultipleInputs/input2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/03-luxury-tax-calculator/starter-code/conditions/conditions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/03-luxury-tax-calculator/starter-code/conditions/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/03-luxury-tax-calculator/starter-code/conditions/src/main/java/com/trilogyed/Conditions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/03-luxury-tax-calculator/starter-code/conditions/src/main/java/com/trilogyed/DaysOfTheWeek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/03-luxury-tax-calculator/starter-code/conditions/target/classes/com/trilogyed/Conditions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/03-luxury-tax-calculator/starter-code/conditions/target/classes/com/trilogyed/DaysOfTheWeek.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/03-luxury-tax-calculator/starter-code/loops/loops.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/03-luxury-tax-calculator/starter-code/loops/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/03-luxury-tax-calculator/starter-code/loops/src/main/java/com/trilogyed/DoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/03-luxury-tax-calculator/starter-code/loops/src/main/java/com/trilogyed/Loops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/03-luxury-tax-calculator/starter-code/loops/target/classes/com/trilogyed/Loops.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/in-class/debuggingpractice/debugging-practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/in-class/debuggingpractice/debuggingpractice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/in-class/debuggingpractice/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/in-class/debuggingpractice/src/main/java/com/company/DebuggingPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/in-class/debuggingpractice/target/classes/com/company/DebuggingPractice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/katas/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/katas/kata-instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/katas/starter-code/U1M1L2Katas/U1M1L2Katas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/katas/starter-code/U1M1L2Katas/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/katas/starter-code/U1M1L2Katas/src/main/java/com/company/AddFive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/katas/starter-code/U1M1L2Katas/src/main/java/com/company/AddFiveAndDouble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/katas/starter-code/U1M1L2Katas/src/main/java/com/company/AddThirteen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/katas/starter-code/U1M1L2Katas/src/main/java/com/company/AverageThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/katas/starter-code/U1M1L2Katas/src/main/java/com/company/DoubleAndAddFive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/katas/starter-code/U1M1L2Katas/src/main/java/com/company/MultiplyThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/katas/starter-code/U1M1L2Katas/src/main/java/com/company/SubtractTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/katas/starter-code/U1M1L2Katas/src/test/java/com/company/AddFiveAndDoubleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/katas/starter-code/U1M1L2Katas/src/test/java/com/company/AddFiveTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/katas/starter-code/U1M1L2Katas/src/test/java/com/company/AddThirteenTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/katas/starter-code/U1M1L2Katas/src/test/java/com/company/AllKatasTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/katas/starter-code/U1M1L2Katas/src/test/java/com/company/AverageThreeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/katas/starter-code/U1M1L2Katas/src/test/java/com/company/DoubleAndAddFiveTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/katas/starter-code/U1M1L2Katas/src/test/java/com/company/MultiplyThreeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/katas/starter-code/U1M1L2Katas/src/test/java/com/company/SubtractTwoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/katas/starter-code/U1M1L2Katas/target/classes/com/company/AddFive.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/katas/starter-code/U1M1L2Katas/target/classes/com/company/AddFiveAndDouble.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/katas/starter-code/U1M1L2Katas/target/classes/com/company/AddThirteen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/katas/starter-code/U1M1L2Katas/target/classes/com/company/AverageThree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/katas/starter-code/U1M1L2Katas/target/classes/com/company/DoubleAndAddFive.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/katas/starter-code/U1M1L2Katas/target/classes/com/company/MultiplyThree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/katas/starter-code/U1M1L2Katas/target/classes/com/company/SubtractTwo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/katas/starter-code/U1M1L2Katas/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/katas/starter-code/U1M1L2Katas/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/katas/starter-code/U1M1L2Katas/target/test-classes/com/company/AddFiveAndDoubleTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/katas/starter-code/U1M1L2Katas/target/test-classes/com/company/AddFiveTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/katas/starter-code/U1M1L2Katas/target/test-classes/com/company/AddThirteenTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/katas/starter-code/U1M1L2Katas/target/test-classes/com/company/AverageThreeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/katas/starter-code/U1M1L2Katas/target/test-classes/com/company/DoubleAndAddFiveTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/katas/starter-code/U1M1L2Katas/target/test-classes/com/company/MultiplyThreeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/katas/starter-code/U1M1L2Katas/target/test-classes/com/company/SubtractTwoTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/katas/starter-code/U1M1L2Katas/testfiles/MultipleInputs/input0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/katas/starter-code/U1M1L2Katas/testfiles/MultipleInputs/input1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/katas/starter-code/U1M1L2Katas/testfiles/MultipleInputs/input2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/katas/starter-code/U1M1L2Katas/testfiles/SingleInputs/input0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/katas/starter-code/U1M1L2Katas/testfiles/SingleInputs/input1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/activities/katas/starter-code/U1M1L2Katas/testfiles/SingleInputs/input2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/src/main/java/com/trilogyed/ConsoleIO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/02-lesson/target/classes/com/trilogyed/ConsoleIO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/01-Hi-Lo/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/01-Hi-Lo/starter-code/HiLo/HiLo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/01-Hi-Lo/starter-code/HiLo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/01-Hi-Lo/starter-code/HiLo/src/main/java/com/company/HiLo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/01-Hi-Lo/starter-code/HiLo/src/test/java/com/company/HiLoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/01-Hi-Lo/starter-code/HiLo/target/classes/com/company/HiLo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/01-Hi-Lo/starter-code/HiLo/target/test-classes/com/company/HiLoTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/01-Hi-Lo/starter-code/HiLo/testfiles/inputs/input0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/01-Hi-Lo/starter-code/HiLo/testfiles/inputs/input1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/01-Hi-Lo/starter-code/HiLo/testfiles/inputs/input2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/02-How-many-times-to-7/02-How-many-times-to-7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/02-How-many-times-to-7/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/02-How-many-times-to-7/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/02-How-many-times-to-7/src/main/java/How_Many_Times_To_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/03-Fizz-Buzz/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/03-Fizz-Buzz/starter-code/FizzBuzz/FizzBuzz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/03-Fizz-Buzz/starter-code/FizzBuzz/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/03-Fizz-Buzz/starter-code/FizzBuzz/src/main/java/com/company/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/03-Fizz-Buzz/starter-code/FizzBuzz/src/test/java/com/company/FizzBuzzTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/03-Fizz-Buzz/starter-code/FizzBuzz/target/classes/com/company/FizzBuzz.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/03-Fizz-Buzz/starter-code/FizzBuzz/target/test-classes/com/company/FizzBuzzTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/03-Fizz-Buzz/starter-code/FizzBuzz/testfiles/output/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/04-Loan-Calculator/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/04-Loan-Calculator/starter-code/LoanCalculator/LoanCalculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/04-Loan-Calculator/starter-code/LoanCalculator/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/04-Loan-Calculator/starter-code/LoanCalculator/src/main/java/com/company/LoanCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/04-Loan-Calculator/starter-code/LoanCalculator/src/test/java/com/company/LoanCalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/04-Loan-Calculator/starter-code/LoanCalculator/target/classes/com/company/LoanCalculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/04-Loan-Calculator/starter-code/LoanCalculator/target/test-classes/com/company/LoanCalculatorTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/04-Loan-Calculator/starter-code/LoanCalculator/testfiles/inputs/input0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/04-Loan-Calculator/starter-code/LoanCalculator/testfiles/inputs/input1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/04-Loan-Calculator/starter-code/LoanCalculator/testfiles/inputs/input2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/05-Prime-Finder/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/05-Prime-Finder/starter-code/PrimeFinder/PrimeFinder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/05-Prime-Finder/starter-code/PrimeFinder/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/05-Prime-Finder/starter-code/PrimeFinder/src/main/java/com/company/PrimeFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/05-Prime-Finder/starter-code/PrimeFinder/src/test/java/com/company/PrimeFinderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/05-Prime-Finder/starter-code/PrimeFinder/target/classes/com/company/PrimeFinder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/05-Prime-Finder/starter-code/PrimeFinder/target/test-classes/com/company/PrimeFinderTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/05-Prime-Finder/starter-code/PrimeFinder/testfiles/inputs/input0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/05-Prime-Finder/starter-code/PrimeFinder/testfiles/inputs/input1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/05-Prime-Finder/starter-code/PrimeFinder/testfiles/inputs/input2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/05-Prime-Finder/starter-code/PrimeFinder/testfiles/outputs/output0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/05-Prime-Finder/starter-code/PrimeFinder/testfiles/outputs/output1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/05-Prime-Finder/starter-code/PrimeFinder/testfiles/outputs/output2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/kata-instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/U1M1L3Katas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/src/main/java/com/company/AgeAgain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/src/main/java/com/company/CountByThirteen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/src/main/java/com/company/CountByTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/src/main/java/com/company/CountTo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/src/main/java/com/company/EvenOrOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/src/main/java/com/company/FavoriteProgrammingLanguage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/src/main/java/com/company/IsJavaKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/src/main/java/com/company/RangeChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/src/main/java/com/company/UltimateQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/src/main/java/com/company/YourAgeCan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/src/test/java/com/company/AgeAgainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/src/test/java/com/company/AllKatasTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/src/test/java/com/company/CountByThirteenTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/src/test/java/com/company/CountByTwoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/src/test/java/com/company/CountToTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/src/test/java/com/company/EvenOrOddTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/src/test/java/com/company/FavoriteProgrammingLanguageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/src/test/java/com/company/IsJavaKeywordTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/src/test/java/com/company/RangeCheckerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/src/test/java/com/company/UltimateQuestionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/src/test/java/com/company/YourAgeCanTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/target/classes/META-INF/U1M1L3Katas.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/target/classes/com/company/CountByThirteen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/target/classes/com/company/CountByTwo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/target/classes/com/company/CountTo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/target/classes/com/company/EvenOrOdd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/target/classes/com/company/FavoriteProgrammingLanguage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/target/classes/com/company/IsJavaKeyword.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/target/classes/com/company/RangeChecker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/target/classes/com/company/UltimateQuestion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/target/classes/com/company/YourAgeCan.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/target/test-classes/com/company/CountByThirteenTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/target/test-classes/com/company/CountByTwoTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/target/test-classes/com/company/CountToTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/target/test-classes/com/company/EvenOrOddTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/target/test-classes/com/company/IsJavaKeywordTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/target/test-classes/com/company/RangeCheckerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/testfiles/AgeAgain/input0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/testfiles/AgeAgain/input1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/testfiles/AgeAgain/input2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/testfiles/AgeAgain/input3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/testfiles/AgeAgain/input4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/testfiles/AgeAgain/input5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/testfiles/AgeAgain/input6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/testfiles/AgeAgain/input7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/testfiles/AgeAgain/input8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/testfiles/CountByThirteen/input0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/testfiles/CountByThirteen/input1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/testfiles/CountByThirteen/input2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/testfiles/CountByThirteen/output0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/testfiles/CountByThirteen/output1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/testfiles/CountByThirteen/output2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/testfiles/CountByTwo/input0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/testfiles/CountByTwo/input1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/testfiles/CountByTwo/input2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/testfiles/CountByTwo/output0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/testfiles/CountByTwo/output1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/testfiles/CountByTwo/output2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/testfiles/CountTo/input0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/testfiles/CountTo/input1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/testfiles/CountTo/input2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/testfiles/CountTo/output0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/testfiles/CountTo/output1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/testfiles/CountTo/output2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/testfiles/EvenOrOdd/input0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/testfiles/EvenOrOdd/input1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/testfiles/EvenOrOdd/input2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/testfiles/FavoriteProgrammingLanguage/input0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/testfiles/IsJavaKeyword/input0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/testfiles/IsJavaKeyword/input1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/testfiles/IsJavaKeyword/input2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/testfiles/RangeChecker/input0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/testfiles/UltimateQuestion/input0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/testfiles/YourAgeCan/input0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/testfiles/YourAgeCan/input1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/testfiles/YourAgeCan/input2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/testfiles/YourAgeCan/input3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/testfiles/YourAgeCan/input4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/testfiles/YourAgeCan/input5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/testfiles/YourAgeCan/input6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/03-lesson/activities/katas/starter-code/U1M1L3Katas/testfiles/YourAgeCan/input7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/04-lesson/04-lesson.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/04-lesson/activities/katas/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/04-lesson/activities/katas/kata-instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/04-lesson/activities/katas/starter-code/RectPavingCompany/RectPavingCompany.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/04-lesson/activities/katas/starter-code/RectPavingCompany/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/04-lesson/activities/katas/starter-code/RectPavingCompany/src/main/java/com/company/RectPavingCompany.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/04-lesson/activities/katas/starter-code/RectPavingCompany/target/classes/com/company/RectPavingCompany.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/04-lesson/activities/katas/starter-code/minmaxavg/minmaxavg.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/04-lesson/activities/katas/starter-code/minmaxavg/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/04-lesson/activities/katas/starter-code/minmaxavg/src/main/java/com/company/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/04-lesson/activities/katas/starter-code/minmaxavg/target/classes/com/company/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/04-lesson/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/04-lesson/src/main/java/com/trilogyed/methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/04-lesson/target/classes/com/trilogyed/methods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/05-lesson/activities/katas/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/05-lesson/activities/katas/kata-instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/05-lesson/activities/katas/starter-code/U1M1L5Katas/U1-M1-L5-katas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/05-lesson/activities/katas/starter-code/U1M1L5Katas/U1M1L5Katas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/05-lesson/activities/katas/starter-code/U1M1L5Katas/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/05-lesson/activities/katas/starter-code/U1M1L5Katas/src/main/java/com/company/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/05-lesson/activities/katas/starter-code/U1M1L5Katas/src/test/java/com/company/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/05-lesson/activities/katas/starter-code/U1M1L5Katas/target/classes/com/company/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/05-lesson/activities/katas/starter-code/U1M1L5Katas/target/test-classes/com/company/AppTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/06-lesson/06-lesson.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/06-lesson/activities/in-class/minmaxavg/minmaxavg.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/06-lesson/activities/in-class/minmaxavg/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/06-lesson/activities/in-class/minmaxavg/src/main/java/com/company/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/06-lesson/activities/in-class/twodimensionalarrays/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/06-lesson/activities/in-class/twodimensionalarrays/src/main/java/com/trilogyed/TwoDimensionalArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/06-lesson/activities/in-class/twodimensionalarrays/twodimensionalarrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/06-lesson/activities/katas/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/06-lesson/activities/katas/kata-instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/06-lesson/activities/katas/starter-code/U1M1L6Katas/U1-M1-L6-Katas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/06-lesson/activities/katas/starter-code/U1M1L6Katas/U1M1L6Katas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/06-lesson/activities/katas/starter-code/U1M1L6Katas/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/06-lesson/activities/katas/starter-code/U1M1L6Katas/src/main/java/com/company/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/06-lesson/activities/katas/starter-code/U1M1L6Katas/src/test/java/com/company/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/06-lesson/activities/katas/starter-code/U1M1L6Katas/target/classes/com/company/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/06-lesson/activities/katas/starter-code/U1M1L6Katas/target/test-classes/com/company/AppTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/06-lesson/activities/katas/starter-code/U1M1SummativeHeroldKaleigh/U1M1SummativeHeroldKaleigh.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/06-lesson/activities/katas/starter-code/U1M1SummativeHeroldKaleigh/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/06-lesson/activities/katas/starter-code/U1M1SummativeHeroldKaleigh/src/main/java/com/company/ArrayFun5Words.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/06-lesson/activities/katas/starter-code/U1M1SummativeHeroldKaleigh/src/main/java/com/company/ArrayFunReverseIt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/06-lesson/activities/katas/starter-code/U1M1SummativeHeroldKaleigh/src/main/java/com/company/ArrayFunUserArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/06-lesson/activities/katas/starter-code/U1M1SummativeHeroldKaleigh/src/main/java/com/company/JavaLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/06-lesson/activities/katas/starter-code/U1M1SummativeHeroldKaleigh/src/main/java/com/company/MonthConverterIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/06-lesson/activities/katas/starter-code/U1M1SummativeHeroldKaleigh/src/main/java/com/company/MonthConverterSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/06-lesson/activities/katas/starter-code/U1M1SummativeHeroldKaleigh/src/main/java/com/company/SomeMath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/06-lesson/activities/katas/starter-code/U1M1SummativeHeroldKaleigh/src/main/java/com/company/U1_M1_Summative_Herold_Kaleigh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/06-lesson/activities/katas/starter-code/U1M1SummativeHeroldKaleigh/target/classes/com/company/ArrayFun5Words.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/06-lesson/activities/katas/starter-code/U1M1SummativeHeroldKaleigh/target/classes/com/company/ArrayFunReverseIt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/06-lesson/activities/katas/starter-code/U1M1SummativeHeroldKaleigh/target/classes/com/company/ArrayFunUserArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/06-lesson/activities/katas/starter-code/U1M1SummativeHeroldKaleigh/target/classes/com/company/JavaLoops.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/06-lesson/activities/katas/starter-code/U1M1SummativeHeroldKaleigh/target/classes/com/company/MonthConverterIf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/06-lesson/activities/katas/starter-code/U1M1SummativeHeroldKaleigh/target/classes/com/company/MonthConverterSwitch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/06-lesson/activities/katas/starter-code/U1M1SummativeHeroldKaleigh/target/classes/com/company/SomeMath.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/06-lesson/activities/katas/starter-code/U1M1SummativeHeroldKaleigh/target/classes/com/company/U1_M1_Summative_Herold_Kaleigh.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/06-lesson/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/06-lesson/src/main/java/com/trilogyed/ArraysDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/comments/comments.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/comments/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/comments/src/main/java/com/trilogyed/Comments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/comments/target/classes/com/trilogyed/Comments.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../01-module/u1-m1-summative-assessment.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/01-lesson-object-basics/activities/coding-bat/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/01-lesson-object-basics/activities/katas/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/01-lesson-object-basics/activities/pbd/HeroldKaleighU1M2L1PBD/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/01-lesson-object-basics/activities/pbd/HeroldKaleighU1M2L1PBD/src/main/java/com/company/ALittleQuiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/01-lesson-object-basics/activities/pbd/HeroldKaleighU1M2L1PBD/src/main/java/com/company/ANumberGuessingGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/01-lesson-object-basics/activities/pbd/HeroldKaleighU1M2L1PBD/src/main/java/com/company/Dice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/01-lesson-object-basics/activities/pbd/HeroldKaleighU1M2L1PBD/src/main/java/com/company/FortuneCookie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/01-lesson-object-basics/activities/pbd/HeroldKaleighU1M2L1PBD/src/main/java/com/company/HiLoLimitedTries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/01-lesson-object-basics/activities/pbd/HeroldKaleighU1M2L1PBD/src/main/java/com/company/KeepGuessing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/01-lesson-object-basics/activities/pbd/HeroldKaleighU1M2L1PBD/src/main/java/com/company/ModulusAnimation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/01-lesson-object-basics/activities/pbd/HeroldKaleighU1M2L1PBD/src/main/java/com/company/NumberGuessingWithACounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/01-lesson-object-basics/activities/pbd/HeroldKaleighU1M2L1PBD/src/main/java/com/company/SpaceBoxing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/01-lesson-object-basics/activities/pbd/HeroldKaleighU1M2L1PBD/target/classes/com/company/ALittleQuiz.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/01-lesson-object-basics/activities/pbd/HeroldKaleighU1M2L1PBD/target/classes/com/company/ANumberGuessingGame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/01-lesson-object-basics/activities/pbd/HeroldKaleighU1M2L1PBD/target/classes/com/company/Dice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/01-lesson-object-basics/activities/pbd/HeroldKaleighU1M2L1PBD/target/classes/com/company/FortuneCookie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/01-lesson-object-basics/activities/pbd/HeroldKaleighU1M2L1PBD/target/classes/com/company/HiLoLimitedTries.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/01-lesson-object-basics/activities/pbd/HeroldKaleighU1M2L1PBD/target/classes/com/company/KeepGuessing.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/01-lesson-object-basics/activities/pbd/HeroldKaleighU1M2L1PBD/target/classes/com/company/ModulusAnimation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/01-lesson-object-basics/activities/pbd/HeroldKaleighU1M2L1PBD/target/classes/com/company/NumberGuessingWithACounter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/01-lesson-object-basics/activities/pbd/HeroldKaleighU1M2L1PBD/target/classes/com/company/SpaceBoxing.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/01-lesson-object-basics/activities/pbd/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/02-lesson-classes-objects/activities/katas/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/02-lesson-classes-objects/activities/katas/starter-code/U1M2L2Katas/ClassesPractice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/02-lesson-classes-objects/activities/katas/starter-code/U1M2L2Katas/U1M2L2Katas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/02-lesson-classes-objects/activities/katas/starter-code/U1M2L2Katas/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/02-lesson-classes-objects/activities/katas/starter-code/U1M2L2Katas/src/main/java/com/company/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/02-lesson-classes-objects/activities/katas/starter-code/U1M2L2Katas/src/main/java/com/company/CoffeeMaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/02-lesson-classes-objects/activities/katas/starter-code/U1M2L2Katas/src/main/java/com/company/ComputerMouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/02-lesson-classes-objects/activities/katas/starter-code/U1M2L2Katas/src/main/java/com/company/Microwave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/02-lesson-classes-objects/activities/katas/starter-code/U1M2L2Katas/src/main/java/com/company/Radio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/02-lesson-classes-objects/activities/katas/starter-code/U1M2L2Katas/src/main/java/com/company/TV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/02-lesson-classes-objects/activities/katas/starter-code/U1M2L2Katas/src/main/java/com/company/placeholder" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/02-lesson-classes-objects/activities/katas/starter-code/U1M2L2Katas/src/test/java/com/company/AllKatasTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/02-lesson-classes-objects/activities/katas/starter-code/U1M2L2Katas/src/test/java/com/company/CarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/02-lesson-classes-objects/activities/katas/starter-code/U1M2L2Katas/src/test/java/com/company/CoffeeMakerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/02-lesson-classes-objects/activities/katas/starter-code/U1M2L2Katas/src/test/java/com/company/ComputerMouseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/02-lesson-classes-objects/activities/katas/starter-code/U1M2L2Katas/src/test/java/com/company/MicrowaveTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/02-lesson-classes-objects/activities/katas/starter-code/U1M2L2Katas/src/test/java/com/company/RadioTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/02-lesson-classes-objects/activities/katas/starter-code/U1M2L2Katas/src/test/java/com/company/TVTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/02-lesson-classes-objects/activities/katas/starter-code/U1M2L2Katas/target/classes/com/company/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/02-lesson-classes-objects/activities/katas/starter-code/U1M2L2Katas/target/classes/com/company/CoffeeMaker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/02-lesson-classes-objects/activities/katas/starter-code/U1M2L2Katas/target/classes/com/company/ComputerMouse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/02-lesson-classes-objects/activities/katas/starter-code/U1M2L2Katas/target/classes/com/company/Microwave.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/02-lesson-classes-objects/activities/katas/starter-code/U1M2L2Katas/target/classes/com/company/Radio.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/02-lesson-classes-objects/activities/katas/starter-code/U1M2L2Katas/target/classes/com/company/TV.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/02-lesson-classes-objects/activities/katas/starter-code/U1M2L2Katas/target/test-classes/com/company/AllKatasTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/02-lesson-classes-objects/activities/katas/starter-code/U1M2L2Katas/target/test-classes/com/company/CarTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/02-lesson-classes-objects/activities/katas/starter-code/U1M2L2Katas/target/test-classes/com/company/CoffeeMakerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/02-lesson-classes-objects/activities/katas/starter-code/U1M2L2Katas/target/test-classes/com/company/ComputerMouseTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/02-lesson-classes-objects/activities/katas/starter-code/U1M2L2Katas/target/test-classes/com/company/MicrowaveTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/02-lesson-classes-objects/activities/katas/starter-code/U1M2L2Katas/target/test-classes/com/company/RadioTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/02-lesson-classes-objects/activities/katas/starter-code/U1M2L2Katas/target/test-classes/com/company/TVTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/02-lesson-classes-objects/activities/katas/starter-code/UMLDiagrams.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/03-lesson-references-memory-management/activitiesL3/katas/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/03-lesson-references-memory-management/activitiesL3/katas/starter-code/U1M2L3Katas/U1M2L3Katas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/03-lesson-references-memory-management/activitiesL3/katas/starter-code/U1M2L3Katas/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/03-lesson-references-memory-management/activitiesL3/katas/starter-code/U1M2L3Katas/src/main/java/com/company/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/03-lesson-references-memory-management/activitiesL3/katas/starter-code/U1M2L3Katas/src/main/java/com/company/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/03-lesson-references-memory-management/activitiesL3/katas/starter-code/U1M2L3Katas/src/main/java/com/company/CoffeeMaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/03-lesson-references-memory-management/activitiesL3/katas/starter-code/U1M2L3Katas/src/main/java/com/company/ComputerMouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/03-lesson-references-memory-management/activitiesL3/katas/starter-code/U1M2L3Katas/src/main/java/com/company/Microwave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/03-lesson-references-memory-management/activitiesL3/katas/starter-code/U1M2L3Katas/src/main/java/com/company/Radio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/03-lesson-references-memory-management/activitiesL3/katas/starter-code/U1M2L3Katas/src/main/java/com/company/TV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/03-lesson-references-memory-management/activitiesL3/katas/starter-code/U1M2L3Katas/src/test/java/com/company/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/03-lesson-references-memory-management/activitiesL3/katas/starter-code/U1M2L3Katas/target/classes/com/company/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/03-lesson-references-memory-management/activitiesL3/katas/starter-code/U1M2L3Katas/target/classes/com/company/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/03-lesson-references-memory-management/activitiesL3/katas/starter-code/U1M2L3Katas/target/classes/com/company/CoffeeMaker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/03-lesson-references-memory-management/activitiesL3/katas/starter-code/U1M2L3Katas/target/classes/com/company/ComputerMouse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/03-lesson-references-memory-management/activitiesL3/katas/starter-code/U1M2L3Katas/target/classes/com/company/Microwave.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/03-lesson-references-memory-management/activitiesL3/katas/starter-code/U1M2L3Katas/target/classes/com/company/Radio.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/03-lesson-references-memory-management/activitiesL3/katas/starter-code/U1M2L3Katas/target/classes/com/company/TV.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/03-lesson-references-memory-management/activitiesL3/katas/starter-code/U1M2L3Katas/target/test-classes/com/company/AppTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/03-lesson-references-memory-management/activitiesL3/simple-calculator/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/03-lesson-references-memory-management/activitiesL3/simple-calculator/starter-code/Calculator/Calculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/03-lesson-references-memory-management/activitiesL3/simple-calculator/starter-code/Calculator/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/03-lesson-references-memory-management/activitiesL3/simple-calculator/starter-code/Calculator/src/main/java/com/company/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/03-lesson-references-memory-management/activitiesL3/simple-calculator/starter-code/Calculator/src/test/java/com/company/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/03-lesson-references-memory-management/activitiesL3/simple-calculator/starter-code/Calculator/target/classes/com/company/Calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/03-lesson-references-memory-management/activitiesL3/simple-calculator/starter-code/Calculator/target/test-classes/com/company/CalculatorTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/03-lesson-references-memory-management/code/parameterFun/parameterFun.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/03-lesson-references-memory-management/code/parameterFun/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/03-lesson-references-memory-management/code/parameterFun/src/main/java/com/company/ParameterFun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/03-lesson-references-memory-management/code/parameterFun/src/main/java/com/company/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/04-lesson-class-design/activities/CalculatorRefactored/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/04-lesson-class-design/activities/CalculatorRefactored/starter-code/Calculator/Calculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/04-lesson-class-design/activities/CalculatorRefactored/starter-code/Calculator/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/04-lesson-class-design/activities/CalculatorRefactored/starter-code/Calculator/src/main/java/com/company/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/04-lesson-class-design/activities/CalculatorRefactored/starter-code/Calculator/src/test/java/com/company/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/04-lesson-class-design/activities/CalculatorRefactored/starter-code/Calculator/target/classes/com/company/Calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/04-lesson-class-design/activities/CalculatorRefactored/starter-code/Calculator/target/test-classes/com/company/CalculatorTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/04-lesson-class-design/activities/katas/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/05-lesson-interfaces/activities/coding-bat/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/05-lesson-interfaces/activities/implementation-userIO-interface/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/05-lesson-interfaces/activities/implementation-userIO-interface/starter-code/UserIO/UserIO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/05-lesson-interfaces/activities/implementation-userIO-interface/starter-code/UserIO/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/05-lesson-interfaces/activities/implementation-userIO-interface/starter-code/UserIO/src/main/java/com/company/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/05-lesson-interfaces/activities/implementation-userIO-interface/starter-code/UserIO/src/main/java/com/company/interfaces/BetterInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/05-lesson-interfaces/activities/implementation-userIO-interface/starter-code/UserIO/src/main/java/com/company/interfaces/Input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/05-lesson-interfaces/activities/implementation-userIO-interface/starter-code/UserIO/src/main/java/com/company/interfaces/UserIO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/05-lesson-interfaces/activities/implementation-userIO-interface/starter-code/UserIO/target/classes/com/company/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/05-lesson-interfaces/activities/implementation-userIO-interface/starter-code/UserIO/target/classes/com/company/interfaces/BetterInput.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/05-lesson-interfaces/activities/implementation-userIO-interface/starter-code/UserIO/target/classes/com/company/interfaces/Input.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/05-lesson-interfaces/activities/implementation-userIO-interface/starter-code/UserIO/target/classes/com/company/interfaces/UserIO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/05-lesson-interfaces/activities/interface-declaration/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/05-lesson-interfaces/activities/interface-declaration/interfaces/interfaces.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/05-lesson-interfaces/activities/interface-declaration/interfaces/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/05-lesson-interfaces/activities/interface-declaration/interfaces/src/main/java/com/company/interfaces/Auditable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/05-lesson-interfaces/activities/interface-implementation/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/05-lesson-interfaces/activities/interface-implementation/interfaces/interfaces.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/05-lesson-interfaces/activities/interface-implementation/interfaces/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/05-lesson-interfaces/activities/interface-implementation/interfaces/src/main/java/com/company/interfaces/Auditable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/05-lesson-interfaces/activities/katas/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/05-lesson-interfaces/activities/katas/starter-code/U1M2L5Katas/U1M2L5Katas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/05-lesson-interfaces/activities/katas/starter-code/U1M2L5Katas/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/05-lesson-interfaces/activities/katas/starter-code/U1M2L5Katas/src/main/java/com/company/Alarm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/05-lesson-interfaces/activities/katas/starter-code/U1M2L5Katas/src/main/java/com/company/AnalogClock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/05-lesson-interfaces/activities/katas/starter-code/U1M2L5Katas/src/main/java/com/company/Buzzer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/05-lesson-interfaces/activities/katas/starter-code/U1M2L5Katas/src/main/java/com/company/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/05-lesson-interfaces/activities/katas/starter-code/U1M2L5Katas/src/main/java/com/company/Clock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/05-lesson-interfaces/activities/katas/starter-code/U1M2L5Katas/src/main/java/com/company/DigitalClock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/05-lesson-interfaces/activities/katas/starter-code/U1M2L5Katas/src/main/java/com/company/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/05-lesson-interfaces/activities/katas/starter-code/U1M2L5Katas/src/main/java/com/company/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/05-lesson-interfaces/activities/katas/starter-code/U1M2L5Katas/src/main/java/com/company/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/05-lesson-interfaces/activities/katas/starter-code/U1M2L5Katas/src/test/java/com/company/AllKatasTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/05-lesson-interfaces/activities/katas/starter-code/U1M2L5Katas/target/classes/com/company/Alarm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/05-lesson-interfaces/activities/katas/starter-code/U1M2L5Katas/target/classes/com/company/AnalogClock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/05-lesson-interfaces/activities/katas/starter-code/U1M2L5Katas/target/classes/com/company/Buzzer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/05-lesson-interfaces/activities/katas/starter-code/U1M2L5Katas/target/classes/com/company/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/05-lesson-interfaces/activities/katas/starter-code/U1M2L5Katas/target/classes/com/company/Clock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/05-lesson-interfaces/activities/katas/starter-code/U1M2L5Katas/target/classes/com/company/DigitalClock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/05-lesson-interfaces/activities/katas/starter-code/U1M2L5Katas/target/classes/com/company/Shape.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/05-lesson-interfaces/activities/katas/starter-code/U1M2L5Katas/target/classes/com/company/Square.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/05-lesson-interfaces/activities/katas/starter-code/U1M2L5Katas/target/classes/com/company/Triangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/05-lesson-interfaces/activities/katas/starter-code/U1M2L5Katas/target/test-classes/com/company/AllKatasTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/05-lesson-interfaces/activities/multiple-interfaces/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/05-lesson-interfaces/activities/multiple-interfaces/interfaces/interfaces.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/05-lesson-interfaces/activities/multiple-interfaces/interfaces/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/05-lesson-interfaces/activities/multiple-interfaces/interfaces/src/main/java/com/company/interfaces/SchoolRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/05-lesson-interfaces/activities/pbd/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/05-lesson-interfaces/code/interfaces/interfaces.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/05-lesson-interfaces/code/interfaces/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/05-lesson-interfaces/code/interfaces/src/main/java/com/company/interfaces/Auditable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/05-lesson-interfaces/code/interfaces/src/main/java/com/company/interfaces/SchoolRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/05-lesson-interfaces/code/interfaces/src/main/java/com/company/interfaces/Storable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/06-lesson-composition/activities/katas/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/07-lesson-inheritance/activities/katas/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/07-lesson-inheritance/activities/katas/starter-code/U1M2L7Katas/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/07-lesson-inheritance/activities/katas/starter-code/U1M2L7Katas/src/main/java/placeholder" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/07-lesson-inheritance/activities/katas/starter-code/U1M2L7Katas/src/test/java/com/company/interfaces/AllKatasTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/07-lesson-inheritance/activities/shapes-perimeters/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/07-lesson-inheritance/activities/shapes-perimeters/starter-code/ShapesPerimeters/ShapesPerimeters.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/07-lesson-inheritance/activities/shapes-perimeters/starter-code/ShapesPerimeters/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/07-lesson-inheritance/activities/shapes-perimeters/starter-code/ShapesPerimeters/src/main/java/com/company/concreteapproach/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/07-lesson-inheritance/activities/shapes-perimeters/starter-code/ShapesPerimeters/src/main/java/com/company/concreteapproach/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/07-lesson-inheritance/activities/shapes-perimeters/starter-code/ShapesPerimeters/src/main/java/com/company/concreteapproach/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/07-lesson-inheritance/activities/shapes-perimeters/starter-code/ShapesPerimeters/src/main/java/com/company/concreteapproach/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/07-lesson-inheritance/activities/shapes-perimeters/starter-code/ShapesPerimeters/src/main/java/com/company/interfaceapproach/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/07-lesson-inheritance/activities/shapes-perimeters/starter-code/ShapesPerimeters/src/main/java/com/company/interfaceapproach/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/07-lesson-inheritance/activities/shapes-perimeters/starter-code/ShapesPerimeters/src/main/java/com/company/interfaceapproach/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../02-module/07-lesson-inheritance/activities/shapes-perimeters/starter-code/ShapesPerimeters/src/main/java/com/company/interfaceapproach/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../01-lesson-collections/activities/katas/starter-code/U1M3L1Katas/U1M3L1Katas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../src/main/java/com/trilogyed/MyClass.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/Application.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="32" column="49" selection-start-line="32" selection-start-column="49" selection-end-line="32" selection-end-column="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/company/ApplicationTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/Pets.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/company/Application.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/U1M3L3Katas.iml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="730" />
+    <option name="width" value="710" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="U1M3L3Katas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="U1M3L3Katas" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="U1M3L3Katas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="U1M3L3Katas" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="U1M3L3Katas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="U1M3L3Katas" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="U1M3L3Katas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="U1M3L3Katas" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="U1M3L3Katas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="U1M3L3Katas" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="U1M3L3Katas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="U1M3L3Katas" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="U1M3L3Katas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="U1M3L3Katas" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="U1M3L3Katas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="U1M3L3Katas" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="ApplicationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="U1M3L3Katas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.ApplicationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ApplicationTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8110e786-2e90-4473-887d-3aae3e19c1e3" name="Default Changelist" comment="" />
+      <created>1560902882329</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560902882329</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ApplicationTest - 2019.06.18 at 20h 28m 29s.xml">
+      <configuration name="ApplicationTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="730" y="0" width="710" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/Pets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="49" selection-start-line="32" selection-start-column="49" selection-end-line="32" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/company/ApplicationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
