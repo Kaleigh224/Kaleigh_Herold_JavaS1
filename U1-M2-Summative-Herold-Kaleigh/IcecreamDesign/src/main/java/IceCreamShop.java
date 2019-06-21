@@ -1,20 +1,15 @@
-public class IceCreamShop {
-    int numOfScoops;
-    String cones;
-    String bowls;
+public class IceCreamShop extends IceCream{
+    private String toppings;
+    private String cones;
+    private String bowls;
+    int scoops;
 
-    public IceCreamShop(int getNumOfScoops, String getCones, String getBowls) {
-        this.numOfScoops = getNumOfScoops;
-        this.cones = getCones;
-        this.bowls = getBowls;
+    public String getToppings() {
+        return toppings;
     }
 
-    public int getNumOfScoops() {
-        return numOfScoops;
-    }
-
-    public void setNumOfScoops(int numOfScoops) {
-        this.numOfScoops = numOfScoops;
+    public void setToppings(String toppings) {
+        this.toppings = toppings;
     }
 
     public String getCones() {
@@ -33,4 +28,11 @@ public class IceCreamShop {
         this.bowls = bowls;
     }
 
+    public int getScoops() {
+        return scoops;
+    }
+
+    public void setScoops(int scoops) {
+        this.scoops = scoops;
+    }
 }

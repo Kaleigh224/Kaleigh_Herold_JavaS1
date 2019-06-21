@@ -2,29 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e90c310c-90a1-42dd-85b1-0be4ee368e21" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../2019_06_14/U1M2L7Katas/starter-code/U1M2L7Katas/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2019_06_14/U1M2L7Katas/starter-code/U1M2L7Katas/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../U1M1SummativeHeroldKaleigh/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../U1M1SummativeHeroldKaleigh/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../U1M1SummativeHeroldKaleigh/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../U1M1SummativeHeroldKaleigh/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../U1M1SummativeHeroldKaleigh/U1M1SummativeHeroldKaleigh.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../U1M1SummativeHeroldKaleigh/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../U1M1SummativeHeroldKaleigh/src/main/java/com/company/ArrayFun5Words.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../U1M1SummativeHeroldKaleigh/src/main/java/com/company/ArrayFunReverseIt.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../U1M1SummativeHeroldKaleigh/src/main/java/com/company/ArrayFunUserArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../U1M1SummativeHeroldKaleigh/src/main/java/com/company/JavaLoops.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../U1M1SummativeHeroldKaleigh/src/main/java/com/company/MonthConverterIf.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../U1M1SummativeHeroldKaleigh/src/main/java/com/company/MonthConverterSwitch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../U1M1SummativeHeroldKaleigh/src/main/java/com/company/SomeMath.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../U1M1SummativeHeroldKaleigh/src/main/java/com/company/U1_M1_Summative_Herold_Kaleigh.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../U1M1SummativeHeroldKaleigh/target/classes/com/company/ArrayFun5Words.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../U1M1SummativeHeroldKaleigh/target/classes/com/company/ArrayFunReverseIt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../U1M1SummativeHeroldKaleigh/target/classes/com/company/ArrayFunUserArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../U1M1SummativeHeroldKaleigh/target/classes/com/company/JavaLoops.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../U1M1SummativeHeroldKaleigh/target/classes/com/company/MonthConverterIf.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../U1M1SummativeHeroldKaleigh/target/classes/com/company/MonthConverterSwitch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../U1M1SummativeHeroldKaleigh/target/classes/com/company/SomeMath.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../U1M1SummativeHeroldKaleigh/target/classes/com/company/U1_M1_Summative_Herold_Kaleigh.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2019_06_20/KaleighHeroldU1M3L5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2019_06_20/KaleighHeroldU1M3L5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerComposition/src/main/java/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerComposition/src/main/java/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerComposition/src/main/java/CustomerInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IcecreamDesign/src/main/java/IceCreamFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/IcecreamDesign/src/main/java/IceCreamFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IcecreamDesign/src/main/java/IceCreamShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/IcecreamDesign/src/main/java/IceCreamShop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPGInheritance/src/main/java/Character.java" beforeDir="false" afterPath="$PROJECT_DIR$/RPGInheritance/src/main/java/Character.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPGInheritance/src/main/java/Constable.java" beforeDir="false" afterPath="$PROJECT_DIR$/RPGInheritance/src/main/java/Constable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPGInheritance/src/main/java/Farmer.java" beforeDir="false" afterPath="$PROJECT_DIR$/RPGInheritance/src/main/java/Farmer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPGInheritance/src/main/java/Warrior.java" beforeDir="false" afterPath="$PROJECT_DIR$/RPGInheritance/src/main/java/Warrior.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -35,11 +22,196 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RPGInheritance/src/main/java/Character.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+              <folding>
+                <element signature="e#334#335#0" expanded="true" />
+                <element signature="e#361#362#0" expanded="true" />
+                <element signature="e#401#402#0" expanded="true" />
+                <element signature="e#433#434#0" expanded="true" />
+                <element signature="e#465#466#0" expanded="true" />
+                <element signature="e#496#497#0" expanded="true" />
+                <element signature="e#541#542#0" expanded="true" />
+                <element signature="e#581#582#0" expanded="true" />
+                <element signature="e#611#612#0" expanded="true" />
+                <element signature="e#640#641#0" expanded="true" />
+                <element signature="e#681#682#0" expanded="true" />
+                <element signature="e#717#718#0" expanded="true" />
+                <element signature="e#748#749#0" expanded="true" />
+                <element signature="e#778#779#0" expanded="true" />
+                <element signature="e#821#822#0" expanded="true" />
+                <element signature="e#859#860#0" expanded="true" />
+                <element signature="e#888#889#0" expanded="true" />
+                <element signature="e#916#917#0" expanded="true" />
+                <element signature="e#955#956#0" expanded="true" />
+                <element signature="e#989#990#0" expanded="true" />
+                <element signature="e#1024#1025#0" expanded="true" />
+                <element signature="e#1058#1059#0" expanded="true" />
+                <element signature="e#1109#1110#0" expanded="true" />
+                <element signature="e#1155#1156#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RPGInheritance/src/main/java/Constable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="6" selection-start-line="11" selection-start-column="4" selection-end-line="14" selection-end-column="5" />
+              <folding>
+                <element signature="e#113#114#0" expanded="true" />
+                <element signature="e#148#149#0" expanded="true" />
+                <element signature="e#204#205#0" expanded="true" />
+                <element signature="e#252#253#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RPGInheritance/src/main/java/Farmer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+              <folding>
+                <element signature="e#71#72#0" expanded="true" />
+                <element signature="e#118#119#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CustomerComposition/src/main/java/Address.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+              <folding>
+                <element signature="e#554#555#0" expanded="true" />
+                <element signature="e#604#605#0" expanded="true" />
+                <element signature="e#646#647#0" expanded="true" />
+                <element signature="e#682#683#0" expanded="true" />
+                <element signature="e#714#715#0" expanded="true" />
+                <element signature="e#764#765#0" expanded="true" />
+                <element signature="e#806#807#0" expanded="true" />
+                <element signature="e#837#838#0" expanded="true" />
+                <element signature="e#864#865#0" expanded="true" />
+                <element signature="e#904#905#0" expanded="true" />
+                <element signature="e#936#937#0" expanded="true" />
+                <element signature="e#968#969#0" expanded="true" />
+                <element signature="e#996#997#0" expanded="true" />
+                <element signature="e#1038#1039#0" expanded="true" />
+                <element signature="e#1072#1073#0" expanded="true" />
+                <element signature="e#1102#1103#0" expanded="true" />
+                <element signature="e#1128#1129#0" expanded="true" />
+                <element signature="e#1166#1167#0" expanded="true" />
+                <element signature="e#1196#1197#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CustomerComposition/src/main/java/Customer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="760">
+              <caret line="51" column="29" lean-forward="true" selection-start-line="51" selection-start-column="29" selection-end-line="51" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IcecreamDesign/src/main/java/IceCream.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+              <folding>
+                <element signature="e#430#431#0" expanded="true" />
+                <element signature="e#480#481#0" expanded="true" />
+                <element signature="e#522#523#0" expanded="true" />
+                <element signature="e#556#557#0" expanded="true" />
+                <element signature="e#586#587#0" expanded="true" />
+                <element signature="e#632#633#0" expanded="true" />
+                <element signature="e#665#666#0" expanded="true" />
+                <element signature="e#702#703#0" expanded="true" />
+                <element signature="e#738#739#0" expanded="true" />
+                <element signature="e#793#794#0" expanded="true" />
+                <element signature="e#843#844#0" expanded="true" />
+                <element signature="e#872#873#0" expanded="true" />
+                <element signature="e#900#901#0" expanded="true" />
+                <element signature="e#939#940#0" expanded="true" />
+                <element signature="e#973#974#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IcecreamDesign/src/main/java/IceCreamShop.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+              <folding>
+                <element signature="e#205#206#0" expanded="true" />
+                <element signature="e#253#254#0" expanded="true" />
+                <element signature="e#293#294#0" expanded="true" />
+                <element signature="e#325#326#0" expanded="true" />
+                <element signature="e#353#354#0" expanded="true" />
+                <element signature="e#395#396#0" expanded="true" />
+                <element signature="e#429#430#0" expanded="true" />
+                <element signature="e#461#462#0" expanded="true" />
+                <element signature="e#489#490#0" expanded="true" />
+                <element signature="e#531#532#0" expanded="true" />
+                <element signature="e#565#566#0" expanded="true" />
+                <element signature="e#595#596#0" expanded="true" />
+                <element signature="e#624#625#0" expanded="true" />
+                <element signature="e#665#666#0" expanded="true" />
+                <element signature="e#701#702#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/IcecreamDesign/src/main/java/IceCreamFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+              <folding>
+                <element signature="e#149#150#0" expanded="true" />
+                <element signature="e#203#204#0" expanded="true" />
+                <element signature="e#249#250#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RPGInheritance/src/main/java/Warrior.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="e#136#137#0" expanded="true" />
+                <element signature="e#185#186#0" expanded="true" />
+                <element signature="e#117#118#0" expanded="true" />
+                <element signature="e#154#155#0" expanded="true" />
+                <element signature="e#211#212#0" expanded="true" />
+                <element signature="e#263#264#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -59,6 +231,15 @@
         <option value="$PROJECT_DIR$/src/main/java/ConverterIf.java" />
         <option value="$PROJECT_DIR$/src/main/java/ConverterSwitch.java" />
         <option value="$PROJECT_DIR$/src/main/java/ConverterApplication.java" />
+        <option value="$PROJECT_DIR$/RPGInheritance/src/main/java/Constable.java" />
+        <option value="$PROJECT_DIR$/RPGInheritance/src/main/java/Warrior.java" />
+        <option value="$PROJECT_DIR$/RPGInheritance/src/main/java/Farmer.java" />
+        <option value="$PROJECT_DIR$/CustomerComposition/src/main/java/Address.java" />
+        <option value="$PROJECT_DIR$/CustomerComposition/src/main/java/Customer.java" />
+        <option value="$PROJECT_DIR$/RPGInheritance/src/main/java/Character.java" />
+        <option value="$PROJECT_DIR$/IcecreamDesign/src/main/java/IceCream.java" />
+        <option value="$PROJECT_DIR$/IcecreamDesign/src/main/java/IceCreamFactory.java" />
+        <option value="$PROJECT_DIR$/IcecreamDesign/src/main/java/IceCreamShop.java" />
       </list>
     </option>
   </component>
@@ -67,15 +248,6 @@
       <MavenImportingSettings>
         <option name="importAutomatically" value="true" />
       </MavenImportingSettings>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
-        <option value="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
@@ -89,8 +261,44 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="U1M2SummativeHeroldKaleigh" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="ConverterInterface" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="U1M2SummativeHeroldKaleigh" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="ConverterInterface" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="CustomerComposition" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="U1M2SummativeHeroldKaleigh" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="ConverterInterface" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="CustomerComposition" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="U1M2SummativeHeroldKaleigh" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="ConverterInterface" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="CustomerComposition" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="U1M2SummativeHeroldKaleigh" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="ConverterInterface" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="CustomerComposition" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -106,8 +314,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -125,53 +335,6 @@
     <configuration name="ConverterApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ConverterApplication" />
       <module name="ConverterInterface" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="ConverterInterface" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <module name="ConverterInterface" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -196,19 +359,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="730" y="0" width="710" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.9550898" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3590844" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
@@ -216,45 +375,193 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ConverterIf.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ConverterSwitch.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Converter.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ConverterApplication.java" />
+    <entry file="file://$PROJECT_DIR$/RPGInheritance/src/main/java/Warrior.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#185#186#0" expanded="true" />
+            <element signature="e#117#118#0" expanded="true" />
+            <element signature="e#154#155#0" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
+            <element signature="e#263#264#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CustomerComposition/src/main/java/CustomerInterface.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ConverterIf.java">
+    <entry file="file://$PROJECT_DIR$/CustomerComposition/src/main/java/Address.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="300">
+          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+          <folding>
+            <element signature="e#554#555#0" expanded="true" />
+            <element signature="e#604#605#0" expanded="true" />
+            <element signature="e#646#647#0" expanded="true" />
+            <element signature="e#682#683#0" expanded="true" />
+            <element signature="e#714#715#0" expanded="true" />
+            <element signature="e#764#765#0" expanded="true" />
+            <element signature="e#806#807#0" expanded="true" />
+            <element signature="e#837#838#0" expanded="true" />
+            <element signature="e#864#865#0" expanded="true" />
+            <element signature="e#904#905#0" expanded="true" />
+            <element signature="e#936#937#0" expanded="true" />
+            <element signature="e#968#969#0" expanded="true" />
+            <element signature="e#996#997#0" expanded="true" />
+            <element signature="e#1038#1039#0" expanded="true" />
+            <element signature="e#1072#1073#0" expanded="true" />
+            <element signature="e#1102#1103#0" expanded="true" />
+            <element signature="e#1128#1129#0" expanded="true" />
+            <element signature="e#1166#1167#0" expanded="true" />
+            <element signature="e#1196#1197#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ConverterSwitch.java">
+    <entry file="file://$PROJECT_DIR$/CustomerComposition/src/main/java/Customer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="46" column="34" selection-start-line="46" selection-start-column="34" selection-end-line="46" selection-end-column="34" />
+        <state relative-caret-position="760">
+          <caret line="51" column="29" lean-forward="true" selection-start-line="51" selection-start-column="29" selection-end-line="51" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Converter.java">
+    <entry file="file://$PROJECT_DIR$/RPGInheritance/src/main/java/Farmer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+        <state relative-caret-position="105">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          <folding>
+            <element signature="e#71#72#0" expanded="true" />
+            <element signature="e#118#119#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ConverterApplication.java">
+    <entry file="file://$PROJECT_DIR$/RPGInheritance/src/main/java/Character.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        <state relative-caret-position="45">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+          <folding>
+            <element signature="e#334#335#0" expanded="true" />
+            <element signature="e#361#362#0" expanded="true" />
+            <element signature="e#401#402#0" expanded="true" />
+            <element signature="e#433#434#0" expanded="true" />
+            <element signature="e#465#466#0" expanded="true" />
+            <element signature="e#496#497#0" expanded="true" />
+            <element signature="e#541#542#0" expanded="true" />
+            <element signature="e#581#582#0" expanded="true" />
+            <element signature="e#611#612#0" expanded="true" />
+            <element signature="e#640#641#0" expanded="true" />
+            <element signature="e#681#682#0" expanded="true" />
+            <element signature="e#717#718#0" expanded="true" />
+            <element signature="e#748#749#0" expanded="true" />
+            <element signature="e#778#779#0" expanded="true" />
+            <element signature="e#821#822#0" expanded="true" />
+            <element signature="e#859#860#0" expanded="true" />
+            <element signature="e#888#889#0" expanded="true" />
+            <element signature="e#916#917#0" expanded="true" />
+            <element signature="e#955#956#0" expanded="true" />
+            <element signature="e#989#990#0" expanded="true" />
+            <element signature="e#1024#1025#0" expanded="true" />
+            <element signature="e#1058#1059#0" expanded="true" />
+            <element signature="e#1109#1110#0" expanded="true" />
+            <element signature="e#1155#1156#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RPGInheritance/src/main/java/Constable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="6" selection-start-line="11" selection-start-column="4" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="e#113#114#0" expanded="true" />
+            <element signature="e#148#149#0" expanded="true" />
+            <element signature="e#204#205#0" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IcecreamDesign/src/main/java/IceCream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+          <folding>
+            <element signature="e#430#431#0" expanded="true" />
+            <element signature="e#480#481#0" expanded="true" />
+            <element signature="e#522#523#0" expanded="true" />
+            <element signature="e#556#557#0" expanded="true" />
+            <element signature="e#586#587#0" expanded="true" />
+            <element signature="e#632#633#0" expanded="true" />
+            <element signature="e#665#666#0" expanded="true" />
+            <element signature="e#702#703#0" expanded="true" />
+            <element signature="e#738#739#0" expanded="true" />
+            <element signature="e#793#794#0" expanded="true" />
+            <element signature="e#843#844#0" expanded="true" />
+            <element signature="e#872#873#0" expanded="true" />
+            <element signature="e#900#901#0" expanded="true" />
+            <element signature="e#939#940#0" expanded="true" />
+            <element signature="e#973#974#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IcecreamDesign/src/main/java/IceCreamShop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+          <folding>
+            <element signature="e#205#206#0" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#353#354#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
+            <element signature="e#489#490#0" expanded="true" />
+            <element signature="e#531#532#0" expanded="true" />
+            <element signature="e#565#566#0" expanded="true" />
+            <element signature="e#595#596#0" expanded="true" />
+            <element signature="e#624#625#0" expanded="true" />
+            <element signature="e#665#666#0" expanded="true" />
+            <element signature="e#701#702#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IcecreamDesign/src/main/java/IceCreamFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+          <folding>
+            <element signature="e#149#150#0" expanded="true" />
+            <element signature="e#203#204#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
