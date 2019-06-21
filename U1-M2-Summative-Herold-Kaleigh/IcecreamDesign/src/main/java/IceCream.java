@@ -1,10 +1,10 @@
 public class IceCream {
     private String employees;
-    private String Flavors;
+    private String[] flavors;
     private int numOfFreezers;
     private int pints;
 
-    public IceCream(String employees, String flavors, int numOfFreezers, int pints) {
+    public IceCream(String employees, String flavors[], int numOfFreezers, int pints) {
         this.employees = employees;
         Flavors = flavors;
         this.numOfFreezers = numOfFreezers;
@@ -19,11 +19,11 @@ public class IceCream {
         this.employees = employees;
     }
 
-    public String getFlavors() {
+    public String getFlavors[]() {
         return Flavors;
     }
 
-    public void setFlavors(String flavors) {
+    public void setFlavors(String[] flavors) {
         Flavors = flavors;
     }
 

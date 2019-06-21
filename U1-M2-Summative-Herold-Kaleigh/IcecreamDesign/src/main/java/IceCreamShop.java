@@ -4,6 +4,11 @@ public class IceCreamShop extends IceCream{
     private String bowls;
     int scoops;
 
+    public IceCreamShop (String employees, String flavors[], int numOfFreezers, int pints) {
+        super(employees, flavors[], numOfFreezers, pints);
+    }
+
+
     public String getToppings() {
         return toppings;
     }
