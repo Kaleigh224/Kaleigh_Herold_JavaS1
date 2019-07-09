@@ -1,0 +1,62 @@
+restapi: 3.0.0
+info:
+  title: Quote API
+  description: >-
+    This web service is a quote-of-the-day service.
+  version: 0.0.1
+servers:
+  - url: 'http://localhost:8080'
+    description: Local dev server
+paths:
+  /quote:
+    get:
+      summary: Displays a quote-of-the-day
+      responses:
+        '200':
+          description: A quote
+          
+              
+              
+              
+  /word:
+    get:
+      summary: Displays a word and its definition.
+      responses:
+        '200':
+          description: A word and its definition
+          
+          
+  /magic
+    post:
+      summary: Responds to question with Magic8Ball answers
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/Magic8Ball'
+      responses:
+        '201':
+          description: Magic 8 ball object
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Magic8Ball'
+        '422':
+          description: Incomplete question. Some required fields missing.
+          
+          
+components:
+  schemas:
+    Magic8Ball:
+      properties:
+        question:
+          type: string
+        answer:
+          type: string
+      required:
+        - question
+
+
+
+
