@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d72c8ffc-5b08-4ec4-9708-252b97c281a6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../2019_06_20/KaleighHeroldU1M3L5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2019_06_20/KaleighHeroldU1M3L5/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../U1-M2-Summative-Herold-Kaleigh/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../U1-M2-Summative-Herold-Kaleigh/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../U1-M2-Summative-Herold-Kaleigh/CustomerComposition/src/main/java/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../U1-M2-Summative-Herold-Kaleigh/CustomerComposition/src/main/java/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../U1-M2-Summative-Herold-Kaleigh/CustomerComposition/src/main/java/CustomerInterface.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../U1-M2-Summative-Herold-Kaleigh/IcecreamDesign/src/main/java/IceCreamFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../U1-M2-Summative-Herold-Kaleigh/IcecreamDesign/src/main/java/IceCreamFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../U1-M2-Summative-Herold-Kaleigh/IcecreamDesign/src/main/java/IceCreamShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../U1-M2-Summative-Herold-Kaleigh/IcecreamDesign/src/main/java/IceCreamShop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../U1-M2-Summative-Herold-Kaleigh/RPGInheritance/src/main/java/Character.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../U1-M2-Summative-Herold-Kaleigh/RPGInheritance/src/main/java/Character.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../U1-M2-Summative-Herold-Kaleigh/RPGInheritance/src/main/java/Constable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../U1-M2-Summative-Herold-Kaleigh/RPGInheritance/src/main/java/Constable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../U1-M2-Summative-Herold-Kaleigh/RPGInheritance/src/main/java/Farmer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../U1-M2-Summative-Herold-Kaleigh/RPGInheritance/src/main/java/Farmer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../U1-M2-Summative-Herold-Kaleigh/RPGInheritance/src/main/java/Warrior.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../U1-M2-Summative-Herold-Kaleigh/RPGInheritance/src/main/java/Warrior.java" afterDir="false" />
-    </list>
+    <list default="true" id="d72c8ffc-5b08-4ec4-9708-252b97c281a6" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -140,6 +129,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
@@ -203,7 +193,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.32891566" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />

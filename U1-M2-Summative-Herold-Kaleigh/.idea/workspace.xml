@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e90c310c-90a1-42dd-85b1-0be4ee368e21" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../2019_06_21/KaleighHeroldU1M3L6PBD/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2019_06_21/KaleighHeroldU1M3L6PBD/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IcecreamDesign/src/main/java/IceCream.java" beforeDir="false" afterPath="$PROJECT_DIR$/IcecreamDesign/src/main/java/IceCream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IcecreamDesign/src/main/java/IceCreamFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/IcecreamDesign/src/main/java/IceCreamFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IcecreamDesign/src/main/java/IceCreamShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/IcecreamDesign/src/main/java/IceCreamShop.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
